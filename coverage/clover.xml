@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1663737495734" clover="3.2.0">
+  <project timestamp="1663737495734" name="All files">
+    <metrics statements="47" coveredstatements="39" conditionals="4" coveredconditionals="1" methods="18" coveredmethods="15" elements="69" coveredelements="55" complexity="0" loc="47" ncloc="47" packages="4" files="6" classes="6"/>
+    <package name="__mock__">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="file_mock.js" path="C:\Users\bhusingl\ReactNativeProjects\BreweriesCaseStudy\__mock__\file_mock.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="DetailView.js" path="C:\Users\bhusingl\ReactNativeProjects\BreweriesCaseStudy\src\components\DetailView.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+      </file>
+      <file name="ListItemView.js" path="C:\Users\bhusingl\ReactNativeProjects\BreweriesCaseStudy\src\components\ListItemView.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="24" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.screens">
+      <metrics statements="42" coveredstatements="34" conditionals="4" coveredconditionals="1" methods="16" coveredmethods="13"/>
+      <file name="BreweriesList.js" path="C:\Users\bhusingl\ReactNativeProjects\BreweriesCaseStudy\src\screens\BreweriesList.js">
+        <metrics statements="33" coveredstatements="25" conditionals="4" coveredconditionals="1" methods="12" coveredmethods="9"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="12" type="stmt"/>
+        <line num="22" count="11" type="stmt"/>
+        <line num="23" count="11" type="stmt"/>
+        <line num="24" count="11" type="stmt"/>
+        <line num="26" count="11" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="11" type="stmt"/>
+        <line num="34" count="11" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="48" count="11" type="stmt"/>
+        <line num="49" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="63" count="11" type="stmt"/>
+        <line num="64" count="12" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="89" count="11" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="107" count="30" type="stmt"/>
+      </file>
+      <file name="BreweryDetails.js" path="C:\Users\bhusingl\ReactNativeProjects\BreweriesCaseStudy\src\screens\BreweryDetails.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.styles">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="appStyles.js" path="C:\Users\bhusingl\ReactNativeProjects\BreweriesCaseStudy\src\styles\appStyles.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
